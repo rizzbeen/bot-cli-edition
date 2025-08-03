@@ -1,2 +1,14 @@
-# bot-cli-edition
-This is my Python AI chatbot that runs in the terminal. It features a quiz, password manager, and to-do list. I used Google’s Gemini API to make it smart and added colors and typing effects for fun. I built it to learn APIs, manage input, and create engaging CLI apps. Hope you like it!
+# 🤖 BOT CLI Edition – Smart Terminal Assistant
+
+A colorful, AI-powered assistant you can run straight from your terminal!  
+Built fully in Python, this smart bot includes a quiz engine 🧠, a secure password vault 🔐, a to-do list manager ✅, and even talks like a real AI 💬 thanks to Gemini API integration.
+
+---
+
+✨ Features:
+
+- 🧠 **Quiz Game** – Play level-based smart quizzes and track your score.  
+- 🔐 **Password Vault** – Save and retrieve secrets safely (local only).  
+- ✅ **To-Do List** – Add, view, and manage your tasks.  
+- 🤖 **Gemini AI Chat** – Powered by Google’s Gemini API (Text-only).  
+- 🎨 **Typing Effects & Colors** – Custom UI feel in terminal using `colorama` and slow typing.  
